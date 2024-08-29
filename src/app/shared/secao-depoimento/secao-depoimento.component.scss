@@ -1,0 +1,10 @@
+.secao-depoimento {
+  text-align: center;
+  .depoimento-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+		margin-bottom: 12px;
+		align-items: stretch;
+  }
+}
